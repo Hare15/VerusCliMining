@@ -1,8 +1,8 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "sedyhd994.worker",
+        	"url": "stratum+tcp://gate.emcd.io:3333",
 		"timeout": 150
 	},
 	{
